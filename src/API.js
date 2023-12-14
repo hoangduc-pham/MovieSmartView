@@ -12,7 +12,7 @@ export const getMovieList = async () => {
   console.log(movie)
   return movie.data.results;
 };
-//memanggil listing" dari API movie
+//memanggil listing" dari API moviea
 
 
 export const searchMovie = async (q) => {
